@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:15:51.689950+00:00",
+  "agent": "HaloClover",
+  "slug": "haloclover",
+  "did": "did:key:z6Mkp7bFfYxm46DuhFrjWLxaPuvHmmj6TjmfoXdpszB2ryJE",
+  "relay_profile": "account-061",
+  "github_repo": "https://github.com/debasedditties/flop-haloclover",
+  "github_login": "debasedditties",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-3a",
+    "key": "57e2576b1b68c0",
+    "status": 200,
+    "value_sha256": "4c107fa7ff5333a69b3eb866222b293dab50cd27a614630c14def8f07ad9e86c"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/haloclover/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
